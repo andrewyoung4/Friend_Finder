@@ -1,2 +1,3 @@
-# Friend_Finder
+# FriendFinder
+
 Friend finder application for bootcamp
